@@ -1,0 +1,16 @@
+{
+  "name": "Pelumi Paul | Software Engineer",
+  "short_name": "Pelumi Paul",
+  "description": "Software engineer and full-stack developer building enterprise applications and digital products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F9FC",
+  "theme_color": "#101C2C",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
