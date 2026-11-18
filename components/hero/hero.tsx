@@ -57,11 +57,11 @@ export function Hero(): ReactNode {
                 <PortraitMorph
                   srcA={profile.portrait}
                   srcB={profile.portraitHover}
-                  alt="Pelumi Paul"
+                  alt={profile.name}
                 />
               </div>
               <div className="mt-4 flex flex-wrap items-baseline justify-between gap-x-4 gap-y-1 border-b border-foreground/10 pb-3">
-                <p className="font-semibold text-foreground">Pelumi Paul</p>
+                <p className="font-semibold text-foreground">{profile.name}</p>
                 <p className="text-sm text-foreground/60">{profile.location}</p>
               </div>
             </div>

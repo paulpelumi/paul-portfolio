@@ -3,13 +3,13 @@ export const features = {
 };
 
 export const profile = {
-  name: "Pelumi Paul",
+  name: "Lagos",
   fullName: "Pelumi Paul Kolawole",
   title: "Software Engineer | Full-Stack Developer | Technology Solutions Builder",
   location: "Nigeria",
   portrait: "/images/pelumi-profile.webp",
   portraitHover: "/images/pelumi-profile-hover.webp",
-  heroHeadline: "Ideas into technology. Problems into possibilities.",
+  heroHeadline: "PELUMI PAUL KOLAWOLE",
   heroDescription:
     "I design and develop scalable applications, enterprise platforms and technology-driven solutions that help businesses improve operations, streamline processes and turn ideas into functional products.",
   biography: [
